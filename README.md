@@ -29,5 +29,5 @@
 - **Technologies Used**: Arduino, Zigbee, Python, pyserial.
 
 ## 📫 Contact
-- [LinkedIn]((https://www.linkedin.com/in/ayoub-mendoubi-51357a298/)])
+- [LinkedI](https://www.linkedin.com/in/ayoub-mendoubi-51357a298/)
 - Email: ayoubmend@gmail.com
